@@ -1,9 +1,9 @@
 ---
-name: Representación de la información Kids
+name: "\U0001F6A7 Representación de la información"
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []
