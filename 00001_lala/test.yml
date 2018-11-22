@@ -2,9 +2,9 @@ check_head_position: false
 examples:
  - initial_board: |
      GBB/1.0
-     size 1 5
+     size 2 5
      head 0 0
    final_board: |
      GBB/1.0
-     size 1 5
+     size 2 5
      head 0 0
