@@ -1,4 +1,4 @@
 
-hola <i class="da da-gobstones"></i> lalala 
+hola <a>hola</a> lalala 
 
-> lalala <i class="da da-gobstones"></i> lala 
+> lalala <a>hola</a> lala 
