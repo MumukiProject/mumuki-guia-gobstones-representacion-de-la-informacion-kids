@@ -1,5 +1,5 @@
 ---
-name: "\U0001F923\U0001F6A7 Representación de\U0001F914 la información"
+name: "\U0001F6A7 Representación de la información"
 locale: es
 type: learning
 beta: false
@@ -9,3 +9,4 @@ id_format: "%05d"
 order:
 - 1
 - 2
+private: false
