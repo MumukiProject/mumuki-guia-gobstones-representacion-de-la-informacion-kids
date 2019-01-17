@@ -2,10 +2,9 @@ check_head_position: false
 examples:
  - initial_board: |
      GBB/1.0
-     size 2 5
-     head 0 0
+     size 1 1
+     head NaN NaN
    final_board: |
      GBB/1.0
-     size 2 5
-     cell 0 4 Verde 1 
-     head 0 0
+     size 1 1
+     head NaN NaN
