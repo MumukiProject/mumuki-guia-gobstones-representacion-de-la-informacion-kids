@@ -1,10 +1,6 @@
-Ya conocimos a los productores, consumidores primarios y secundarios. Completemos la **cadena alimenticia** :fork_and_knife::
- 
-* Los **consumidores terciarios** son peces y mamíferos más grandes :fish: como el atún, el pez espada, los lobos marinos, delfines :dolphin:, pingüinos :penguin: y gaviotas.
-* Los **consumidores cuaternarios** cazan y dominan el _ecosistema_ :crown:. ¿Conocés algún pez muy grande que coma a los anteriores? Pensá en blanco y negro :wink:. Los más conocidos son los tiburones y las orcas, que suelen confundirlas con ballenas pero en realidad son un tipo de delfines. :stuck_out_tongue_closed_eyes:
+En el ejercicio anterior vimos que hay nuevos bloques que sirven para construir _expresiones_ de cosas que en Gobstones no existen. Y lo mejor es que esas expresiones las podemos usar como un valor. :smile: Veamos qué otras expresiones podemos construir.
 
-Contémoslos a todos y veamos con cuántos seres marinos nos cruzamos. :seedling::fish: 
-
+Dani nos cuenta que muchas personas comen pescado. Por eso, tenemos que cuidar mucho nuestros mares. Si los contaminamos, las algas no pueden producir oxígeno ni energía y se extinguirían, el kril no tendría nada para comer y, al desaparecer, también lo harían los peces :pensive:. Todos los elementos de la cadena son muy importantes para los siguientes y los anteriores. 
 
 
 > Hacé la función `cantidad de tiburones` que _devuelva_ el `número de bolitas Azul`. Completá la función `cantidad de seres marinos` para que devuelva la suma de **todas** las especies vistas. 
