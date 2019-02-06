@@ -1,8 +1,2 @@
 Guía en construcción
-:fishing_pole_and_fish:
-
-
-
-
-
-
+:fallen_leaf::maple_leaf:
