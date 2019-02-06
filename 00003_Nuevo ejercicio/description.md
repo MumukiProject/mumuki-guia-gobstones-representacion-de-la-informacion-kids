@@ -1,4 +1,4 @@
-¡Excelente, ya tenemos todo listo para mover nuestra sembradora por el terreno! ¿Qué esperás para empezar a sembrar?  
+¡Excelente, ya tenemos todo listo para mover nuestra sembradora por el terreno! ¿Qué esperás para empezar a sembrar?  :grimacing:
 
 Bueno… Primero deberíamos preparar la tierra. Eso implica limpiarla y llenarla de nutrientes para que nuestras plantas crezcan sanas y fuertes :muscle:; es como darle de comer a la tierra. :yum:
 
