@@ -1,7 +1,8 @@
-¡Excelente, ya tenemos todo listo para mover nuestra sembradora por el terreno! ¿Qué esperás para empezar a sembrar?  :grimacing:
+Limpia y preparada la tierra, es hora de sembrar. Pero... ¿para qué sembrar frutas y verduras si podemos comprarlas en la verdulería? 
 
-Bueno… Primero deberíamos preparar la tierra. Eso implica limpiarla y llenarla de nutrientes para que nuestras plantas crezcan sanas y fuertes :muscle:; es como darle de comer a la tierra. :yum:
-
-Para eso, hay que **abonarla** con una cosa llamada **composta**, que se puede hacer con _estiércol :poop: de ciertos animales, restos de frutas y verduras_ :sweet_potato: _u hojas degradadas_ :fallen_leaf::maple_leaf:. ¡Comencemos!
+Porque lo que vos plantás puede crecer gracias al esfuerzo y amor que le das :heart_eyes:. Los grandes productores :factory: usan pesticidas y productos químicos para que la siembra crezca más rápido; eso genera frutas y verduras perfectas visualmente :tomato::eyes:, pero con muchísimo menos sabor y nutrientes que las tuyas. Y, como si fuera poco, con nuestra huerta cuidamos el medioambiente :sunglasses: evitando los gases de efecto invernadero. :foggy:
 
 > lala
+
+:recycle:
+
