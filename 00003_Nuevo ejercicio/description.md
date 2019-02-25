@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-representacion-de-la-informacion-kids/master/assets/attires/config_1551116198282.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-representacion-de-la-informacion-kids/master/assets/attires/config_1551116984132.json"></gs-attire>
 
 Limpia y preparada la tierra, es hora de sembrar :seedling:. Pero... ¿para qué sembrar frutas y verduras si podemos comprarlas en la verdulería? 
 
