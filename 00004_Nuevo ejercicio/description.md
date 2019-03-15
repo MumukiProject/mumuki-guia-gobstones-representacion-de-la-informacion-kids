@@ -1,7 +1,5 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-representacion-de-la-informacion-kids/master/assets/attires/config_1552671109374.json"></gs-attire>
 
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-representacion-de-la-informacion-kids/master/assets/attires/config_1552670245843.json"></gs-attire>
-
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
