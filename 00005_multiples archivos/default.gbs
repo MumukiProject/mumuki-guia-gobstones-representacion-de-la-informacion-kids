@@ -1,0 +1,100 @@
+/*<html_cajas#*/<div style="
+   padding: 1%;
+   margin: 1%;
+   height:100%;
+   border-color: #FF5B81;
+   border-style: solid;
+   border-radius: 5px;
+  ">
+  
+  <div style="
+   padding: 1%;
+   margin: 1%;
+   border-color: #FF5B81;
+   border-style: solid;
+   text-align: center;
+   border-radius: 5px;
+              "> <span style="color: #0B465D;"><strong>Lemon pie</strong></span>
+</div>
+  
+  <div style="
+   padding: 1%;
+   margin: 1%;
+   border-color: #FF5B81;
+   border-style: solid;
+   text-align: left;
+   border-radius: 5px;
+   
+  "> 
+    <span style="color: #0B465D;">
+    <ul>
+      <li><strong><u>Descripción</u></strong></li>
+      <li><strong><u>Ingredientes</u></strong></li>
+      <li><strong><u>Pasos</u></strong></li>
+    </ul>
+    </span>
+</div>
+  
+<div style="
+   padding: 1%;
+   margin: 1%;
+   height:100%;
+   width: 95.5%;
+   border-color: #FF5B81;
+   border-style: solid;
+   border-radius: 5px;
+   display: flex;
+   clear:both;
+  ">
+  <div class="flex">
+    <div class="hola"> <strong>Descripción</strong></div>
+
+    <div class="hola"> <strong>Ingerdientes</strong> </div>
+
+    <div class="hola"> <strong>Pasos</strong></div>  
+  </div>
+  <div class="flex">
+    <div class="hola fix"><span class="centrado"><strong>Video de cómo hacer galetitas</strong></span></div>
+  </div>
+</div>
+  
+<div style="
+   padding: 1%;
+   margin: 1%;
+   border-color: #FF5B81;
+   border-style: solid;
+   text-align: center;
+   border-radius: 5px;
+            "> <span style="color: #0B465D;"><strong>Copyright Mumuki</strong></span>
+</div>
+  
+</div>/*#html_cajas>*/
+/*<css_cajas#*/.hola {
+   padding: 1%;
+   margin: 1%;
+   width: 95%;
+   border-color: #FF5B81;
+   border-style: solid;
+   text-align: center;
+   border-radius: 5px;
+   color: #0B456D;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.fix {
+  height: 100%;
+  justify-content: center;
+  align-items: center;   
+}
+
+.centrado {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;   
+}/*#css_cajas>*/
