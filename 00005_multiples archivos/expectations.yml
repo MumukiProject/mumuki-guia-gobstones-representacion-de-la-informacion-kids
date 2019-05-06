@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:body
-  inspection: DeclaresStyle:backgournd-color:black
+  inspection: DeclaresStyle:background-color:black
