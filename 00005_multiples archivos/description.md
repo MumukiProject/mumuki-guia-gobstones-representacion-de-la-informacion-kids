@@ -1,4 +1,4 @@
-Hay 140 nombres de colores compatibles con los navegadores que solemos usar. Pero también podemos llamarlos por su código _rgb_ que significa<span style="color:red;">rojo</span>, <span style="color:green;">verde</span> y <span style="color:blue;">azul</span> (por sus nombres en inglés: <span style="color:red;">red</span>, <span style="color:green;">green</span> y <span style="color:blue;">blue</span>):
+Hay 140 nombres de colores compatibles con los navegadores que solemos usar. Pero también podemos llamarlos por su código _rgb_ que significa<span style="color:red;">rojo</span>, <span style="color:green;">verde</span> y <span style="color:blue;">azul</span> (por sus nombres en inglés: <span style="color:red;">red</span>, <span style="color:green;">green</span> y <span style="color:blue;">blue</span>): 
 
 <table class="table table-striped"> 
   <thead>
@@ -34,5 +34,6 @@ Hay 140 nombres de colores compatibles con los navegadores que solemos usar. Per
 
 ¿Y esos números? :scream: Cada número es la cantidad de rojo, verde o azul, respectivamente, que vamos a usar para definir un color y va desde 0 a 255. 
 
+<span style="color:white; background-color: black;">blanco</span>
 
 > hola
