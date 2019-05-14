@@ -26,7 +26,7 @@ Hay 140 nombres de colores compatibles con los navegadores que solemos usar. Per
   </tr>
 <tr>
     <td style="background-color: DarkViolet"></td>
-    <td>DarkViolet</td>
+    <td>Dark Violet</td>
     <td><code>rgb(148,0, 211)</code></td>
   </tr>
   </tbody>

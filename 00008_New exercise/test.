@@ -1,0 +1,6 @@
+- name: La fuente es correcta
+  keys:
+    primera_fuente:
+      equal: Serif
+    segunda_fuente:
+      equal: Sans Serif
