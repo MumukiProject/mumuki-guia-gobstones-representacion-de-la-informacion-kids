@@ -1,4 +1,4 @@
-No siempre tenemos que usar distintas tipografías para darle un sentido especial a parte de nuestro texto. También podemos hacer que las letras sea vean <span style="font-size:5px">más grandes</span> o <span style="font-size:2px"> más chicas</span>.
+No siempre tenemos que usar distintas tipografías para darle un sentido especial a parte de nuestro texto. También podemos hacer que las letras sea vean <span style="font-size:3em">más grandes</span> o <span style="font-size:0em"> más chicas</span>.
 
 Hay 140 nombres de colores compatibles con los navegadores que solemos usar. Pero también podemos llamarlos por su código _rgb_ que significa<span style="color:red;">rojo</span>, <span style="color:green;">verde</span> y <span style="color:blue;">azul</span> (por sus nombres en inglés: <span style="color:red;">red</span>, <span style="color:green;">green</span> y <span style="color:blue;">blue</span>): 
 
