@@ -1,0 +1,12 @@
+
+<category name="Commands">
+  <block type="Put"></block>
+</category>
+<category name="Procedimientos primitivos">
+</category>
+<category name="Funciones primitivas">
+</category>
+<category name="My procedures" custom="PROCEDURE_CALLS">
+</category>
+<category name="My functions" custom="FUNCTION_CALLS">
+</category>
