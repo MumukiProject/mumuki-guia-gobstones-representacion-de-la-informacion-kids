@@ -1,0 +1,7 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_tests_failed:
+    - Sacar bolita azul
+  then: Tenés que sacar la bolita `Azul`.
