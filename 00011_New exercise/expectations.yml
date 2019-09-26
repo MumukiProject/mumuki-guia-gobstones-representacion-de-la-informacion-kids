@@ -4,5 +4,5 @@ expectations:
   binding: "*"
   inspection: DeclaresProcedure
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: Intransitive:program
   inspection: UsesRepeat
