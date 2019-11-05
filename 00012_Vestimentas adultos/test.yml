@@ -10,18 +10,16 @@ examples:
    final_board: |
      GBB/1.0
      size 2 2
-     cell 0 1 Negro 1 Rojo 1 
-     cell 0 0 Negro 1 
+     cell 0 1 Negro 1  
+     cell 0 0 Negro 1 Rojo 1
      head 0 1
  - initial_board: |
      GBB/1.0
-     size 2 2
-     cell 0 1 Negro 1 
+     size 1 1
      cell 0 0 Negro 1
      head 0 0
    final_board: |
      GBB/1.0
-     size 2 2
-     cell 0 1 Negro 1 
+     size 1 1
      cell 0 0 Negro 1 Rojo 1
      head 0 0
