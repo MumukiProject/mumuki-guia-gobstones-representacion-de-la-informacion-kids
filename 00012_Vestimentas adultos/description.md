@@ -10,4 +10,13 @@ Esto es un ejercicio de prueba para ver cómo quedan las vestimentas de adultos.
     head 0 0
 </gs-board>
 
+Y acá podemos chamuyar otras cosas para agregar un tablero más.
+
+<gs-board>
+  GBB/1.0
+    size 1 1
+    cell 0 0 Rojo 1 Negro 1
+    head 0 0
+</gs-board>
+
 > Lográ que te quede como en el tablero que ves arriba.
