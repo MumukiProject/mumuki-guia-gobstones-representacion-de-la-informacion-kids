@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-representacion-de-la-informacion-kids/master/assets/attires/config_1572893796198.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-representacion-de-la-informacion-kids/master/assets/attires/config_1580486972724.json"></gs-attire>
 
 Esto es un ejercicio de prueba para ver cómo quedan las vestimentas de adultos.
 
