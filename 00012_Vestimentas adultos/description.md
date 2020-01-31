@@ -19,4 +19,4 @@ Y acá podemos chamuyar otras cosas para agregar un tablero más.
     head 0 0
 </gs-board>
 
-> Lográ que te quede como en el tablero que ves arriba.
+> Lográ que te quede como en el tablero que ves arriba. 
