@@ -1,0 +1,1 @@
+Si uno de los participantes saca una caja, y el otro desea usar el mismo objeto que haya debajo de esa caja, deberá sacarla primero. Pero como ya se sacó, pierde el turno. :woman_shrugging:
