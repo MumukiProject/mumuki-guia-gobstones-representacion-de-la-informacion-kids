@@ -1,8 +1,7 @@
 interactive: false
 check_head_position: false
 examples:
- - title: sacar bolita azul
-   initial_board: |
+ - initial_board: |
      GBB/1.0
      size 2 2
      cell 0 0 Azul 1 
