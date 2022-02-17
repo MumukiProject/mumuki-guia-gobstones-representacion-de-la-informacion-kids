@@ -19,4 +19,8 @@ Y acá podemos chamuyar otras cosas para agregar un tablero más.
     head 0 0
 </gs-board>
 
+
+[Prueba](https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-representacion-de-la-informacion-kids/master/assets/attires/image_1580486964449.png)
+
+
 > Lográ que te quede como en el tablero que ves arriba. 
